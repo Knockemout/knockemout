@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, Kenean Dita Here.
 
-<!--
-**Knockemout/knockemout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **A passionate Web Developer building real projects!**
+
+---
+
+## 🌱 Currently Learning:
+- Frameworks and Libraries (React, Angular, etc.)
+- Backend Technologies (Node.js, Express.js)
+
+## 💻 My Tech Stack:
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL
+- **Version Control**: Git, GitHub
+
+---
+
+### 🛠️ Projects:
+- 🚀 [Project 1](#) - Description of project 1
+- 🌐 [Project 2](#) - Description of project 2
+
+---
+
+### 🌍 Let's Connect!
+- [GitHub](https://github.com/knockemout)
+- [LinkedIn](#)
+- [Portfolio](#)
+
